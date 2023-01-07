@@ -17,13 +17,6 @@ body:
       placeholder: Insert your Discord username here
     validations:
       required: false
-  - type: textarea
-    id: Additional
-    attributes:
-      label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
-    validations:
-      required: true
   - type: markdown
     attributes:
       value: |
